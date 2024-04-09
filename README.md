@@ -32,7 +32,7 @@ pip install pandas numpy matplotlib scikit-learn
 1. Clone this repository:
 
 ```
-git clone https://github.com/pranayaKD/house-price-prediction.git
+git clone https://github.com/pranayaKD/PRODIGY_ML_01.git
 ```
 
 2. Navigate to the project directory:
@@ -43,7 +43,7 @@ cd house-price-prediction
 
 3. Download the dataset from the provided Kaggle competition link and place it in the `data/` directory within the project.
 
-4. Run the Jupyter Notebook `House_Price_Prediction.ipynb` to see the data preprocessing, model training, evaluation, and predictions.
+4. Run the Jupyter Notebook `House-price-prediction-LR.ipynb` to see the data preprocessing, model training, evaluation, and predictions.
 
 ## Project Structure
 
